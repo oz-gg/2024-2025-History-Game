@@ -369,7 +369,8 @@
             // 
             // lblQuestion
             // 
-            lblQuestion.Font = new Font("Segoe UI", 15F);
+            lblQuestion.BackColor = Color.Tomato;
+            lblQuestion.Font = new Font("Segoe UI", 20F);
             lblQuestion.Location = new Point(12, 55);
             lblQuestion.Name = "lblQuestion";
             lblQuestion.Size = new Size(750, 150);
@@ -440,7 +441,7 @@
             lblQuestions.Font = new Font("Segoe UI", 15F);
             lblQuestions.Location = new Point(12, 58);
             lblQuestions.Name = "lblQuestions";
-            lblQuestions.Size = new Size(557, 28);
+            lblQuestions.Size = new Size(550, 28);
             lblQuestions.TabIndex = 8;
             lblQuestions.Text = "Sorular";
             lblQuestions.TextAlign = ContentAlignment.MiddleCenter;
@@ -456,7 +457,7 @@
             lswEndScreenReview.Location = new Point(12, 89);
             lswEndScreenReview.MultiSelect = false;
             lswEndScreenReview.Name = "lswEndScreenReview";
-            lswEndScreenReview.Size = new Size(557, 330);
+            lswEndScreenReview.Size = new Size(550, 330);
             lswEndScreenReview.TabIndex = 7;
             lswEndScreenReview.UseCompatibleStateImageBehavior = false;
             lswEndScreenReview.View = View.Details;
@@ -465,17 +466,17 @@
             // clhQuestionNo
             // 
             clhQuestionNo.Text = "Soru N°";
-            clhQuestionNo.Width = 150;
+            clhQuestionNo.Width = 183;
             // 
             // clhYourAnswer
             // 
             clhYourAnswer.Text = "Cevabınız";
-            clhYourAnswer.Width = 150;
+            clhYourAnswer.Width = 183;
             // 
             // clhCorrectAnswer
             // 
             clhCorrectAnswer.Text = "Doğru Cevap";
-            clhCorrectAnswer.Width = 150;
+            clhCorrectAnswer.Width = 183;
             // 
             // lblCorrectAnswers
             // 
@@ -584,55 +585,56 @@
             // 
             // lblReviewAnswerE
             // 
-            lblReviewAnswerE.Font = new Font("Segoe UI", 15F);
-            lblReviewAnswerE.Location = new Point(12, 336);
+            lblReviewAnswerE.Font = new Font("Segoe UI", 13F);
+            lblReviewAnswerE.Location = new Point(12, 342);
             lblReviewAnswerE.Name = "lblReviewAnswerE";
-            lblReviewAnswerE.Size = new Size(750, 33);
+            lblReviewAnswerE.Size = new Size(750, 27);
             lblReviewAnswerE.TabIndex = 8;
-            lblReviewAnswerE.Text = "Soru";
+            lblReviewAnswerE.Text = "Cevap";
             // 
             // lblReviewAnswerD
             // 
-            lblReviewAnswerD.Font = new Font("Segoe UI", 15F);
-            lblReviewAnswerD.Location = new Point(12, 295);
+            lblReviewAnswerD.Font = new Font("Segoe UI", 13F);
+            lblReviewAnswerD.Location = new Point(12, 308);
             lblReviewAnswerD.Name = "lblReviewAnswerD";
-            lblReviewAnswerD.Size = new Size(750, 33);
+            lblReviewAnswerD.Size = new Size(750, 27);
             lblReviewAnswerD.TabIndex = 7;
-            lblReviewAnswerD.Text = "Soru";
+            lblReviewAnswerD.Text = "Cevap";
             // 
             // lblReviewAnswerC
             // 
-            lblReviewAnswerC.Font = new Font("Segoe UI", 15F);
-            lblReviewAnswerC.Location = new Point(12, 254);
+            lblReviewAnswerC.Font = new Font("Segoe UI", 13F);
+            lblReviewAnswerC.Location = new Point(12, 275);
             lblReviewAnswerC.Name = "lblReviewAnswerC";
-            lblReviewAnswerC.Size = new Size(750, 33);
+            lblReviewAnswerC.Size = new Size(750, 27);
             lblReviewAnswerC.TabIndex = 6;
-            lblReviewAnswerC.Text = "Soru";
+            lblReviewAnswerC.Text = "Cevap";
             // 
             // lblReviewAnswerB
             // 
-            lblReviewAnswerB.Font = new Font("Segoe UI", 15F);
-            lblReviewAnswerB.Location = new Point(12, 213);
+            lblReviewAnswerB.Font = new Font("Segoe UI", 13F);
+            lblReviewAnswerB.Location = new Point(12, 243);
             lblReviewAnswerB.Name = "lblReviewAnswerB";
-            lblReviewAnswerB.Size = new Size(750, 33);
+            lblReviewAnswerB.Size = new Size(750, 27);
             lblReviewAnswerB.TabIndex = 5;
-            lblReviewAnswerB.Text = "Soru";
+            lblReviewAnswerB.Text = "Cevap";
             // 
             // lblReviewAnswerA
             // 
-            lblReviewAnswerA.Font = new Font("Segoe UI", 15F);
-            lblReviewAnswerA.Location = new Point(12, 172);
+            lblReviewAnswerA.Font = new Font("Segoe UI", 13F);
+            lblReviewAnswerA.Location = new Point(12, 208);
             lblReviewAnswerA.Name = "lblReviewAnswerA";
-            lblReviewAnswerA.Size = new Size(750, 33);
+            lblReviewAnswerA.Size = new Size(750, 27);
             lblReviewAnswerA.TabIndex = 4;
-            lblReviewAnswerA.Text = "Soru";
+            lblReviewAnswerA.Text = "Cevap";
             // 
             // lblQuestionReview
             // 
-            lblQuestionReview.Font = new Font("Segoe UI", 15F);
+            lblQuestionReview.BackColor = Color.Tomato;
+            lblQuestionReview.Font = new Font("Segoe UI", 20F);
             lblQuestionReview.Location = new Point(15, 16);
             lblQuestionReview.Name = "lblQuestionReview";
-            lblQuestionReview.Size = new Size(750, 150);
+            lblQuestionReview.Size = new Size(750, 189);
             lblQuestionReview.TabIndex = 3;
             lblQuestionReview.Text = "Soru";
             // 

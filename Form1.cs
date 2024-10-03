@@ -30,8 +30,9 @@ namespace WinFormsApp1
             isPlaying = false;
             pnlQuestion.Visible = false;
             pnlEndScreen.Visible = true;
-
-            float score = (float)correctQuestions.Count / (float)questionsAnswered * ((float)correctQuestions.Count * DesiredQuestionsPerMinute / ((float)totalTime / 60f)) * 100f;
+            
+            float scoreRaw = (float)correctQuestions.Count / (float)questionsAnswered * ((float)correctQuestions.Count / ((float)totalTime / 60f * DesiredQuestionsPerMinute)) * 100f;
+            int score = (int)scoreRaw;
 
             lblPoints.Text = score.ToString();
             lblTotalAnswers.Text = questionsAnswered.ToString();
@@ -68,6 +69,23 @@ namespace WinFormsApp1
             storedQuestions[questionsAnswered] = q;
 
             lblQuestion.Text = q.Ask;
+
+            float fontSize = lblQuestion.Font.Size;
+            SizeF labelSize = new SizeF(lblQuestion.Width, lblQuestion.Height);
+            while (fontSize > 1)
+            {
+                Font testFont = new Font(lblQuestion.Font.FontFamily, fontSize);
+                Size textSize = TextRenderer.MeasureText(lblQuestion.Text, testFont, lblQuestion.Size, TextFormatFlags.WordBreak);
+
+                if (textSize.Width <= labelSize.Width && textSize.Height <= labelSize.Height)
+                {
+                    lblQuestion.Font = testFont;
+                    break;
+                }
+
+                fontSize -= 0.5f;
+            }
+
             rdbAnswerA.Text = q.Answers[0].Text;
             rdbAnswerB.Text = q.Answers[1].Text;
             rdbAnswerC.Text = q.Answers[2].Text;
@@ -172,7 +190,7 @@ namespace WinFormsApp1
 
             questions.units = units;
             questions.difficulty = difficulty;
-            questions.Path = "..\\..\\..\\TestQuestions.xml";
+            questions.Path = "..\\..\\..\\Questions.xml";
             questions.Initialize();
             questionCount = questions.questions.Count;
             storedQuestions = new Question[questionCount];
