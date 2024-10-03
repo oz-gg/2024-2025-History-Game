@@ -42,7 +42,7 @@ namespace WinFormsApp1
                 EndscreenQuestion q = new() { Text = (i + 1).ToString() };
                 q.SubItems.Add(answers[i]);
                 q.SubItems.Add(storedQuestions[i].CorrectAnswer);
-                if (answers[i] == storedQuestions[i].CorrectAnswer) { q.BackColor = Color.Red; }
+                if (answers[i] != storedQuestions[i].CorrectAnswer) { q.BackColor = Color.Red; }
                 else { q.BackColor = Color.White; }
                 lswEndScreenReview.Items.Add(q);
             }
