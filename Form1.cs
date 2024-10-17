@@ -55,6 +55,10 @@ namespace WinFormsApp1
             {
                 robloxeasteregg.Visible = !robloxeasteregg.Visible;
             }
+            else if (e.KeyCode == Keys.D && pnlMainMenu.Visible)
+            {
+                discordeasteregg.Visible = !discordeasteregg.Visible;
+            }
         }
 
         private void btnPlay_Click(object sender, EventArgs e)
@@ -190,7 +194,7 @@ namespace WinFormsApp1
 
             questions.units = units;
             questions.difficulty = difficulty;
-            questions.Path = "..\\..\\..\\Questions.xml";
+            questions.Path = "Questions.xml";
             questions.Initialize();
             questionCount = questions.questions.Count;
             storedQuestions = new Question[questionCount];

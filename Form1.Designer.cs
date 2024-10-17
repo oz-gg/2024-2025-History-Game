@@ -33,6 +33,7 @@
             robloxeasteregg = new Label();
             btnPlay = new Button();
             pnlMainMenu = new Panel();
+            discordeasteregg = new Label();
             pnlPrepMenu = new Panel();
             btnStart = new Button();
             pnlTime = new Panel();
@@ -127,6 +128,7 @@
             // pnlMainMenu
             // 
             pnlMainMenu.BackColor = Color.Salmon;
+            pnlMainMenu.Controls.Add(discordeasteregg);
             pnlMainMenu.Controls.Add(btnPlay);
             pnlMainMenu.Controls.Add(robloxeasteregg);
             pnlMainMenu.Controls.Add(lblTitle);
@@ -135,6 +137,18 @@
             pnlMainMenu.Name = "pnlMainMenu";
             pnlMainMenu.Size = new Size(784, 461);
             pnlMainMenu.TabIndex = 3;
+            // 
+            // discordeasteregg
+            // 
+            discordeasteregg.Dock = DockStyle.Bottom;
+            discordeasteregg.Font = new Font("Segoe UI", 10F);
+            discordeasteregg.Location = new Point(0, 415);
+            discordeasteregg.Name = "discordeasteregg";
+            discordeasteregg.Size = new Size(784, 23);
+            discordeasteregg.TabIndex = 3;
+            discordeasteregg.Text = "DISCORD AÇILSIN";
+            discordeasteregg.TextAlign = ContentAlignment.MiddleCenter;
+            discordeasteregg.Visible = false;
             // 
             // pnlPrepMenu
             // 
@@ -643,10 +657,10 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 461);
+            Controls.Add(pnlMainMenu);
             Controls.Add(pnlReviewQuestion);
             Controls.Add(pnlQuestion);
             Controls.Add(pnlEndScreen);
-            Controls.Add(pnlMainMenu);
             Controls.Add(pnlPrepMenu);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             KeyPreview = true;
@@ -721,5 +735,6 @@
         private Label lblReviewAnswerC;
         private Label lblReviewAnswerB;
         private Button btnReturnToEnd;
+        private Label discordeasteregg;
     }
 }
