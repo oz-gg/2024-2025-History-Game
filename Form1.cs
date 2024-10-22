@@ -71,10 +71,11 @@ namespace WinFormsApp1
         {
             Question q = questions.ReturnRandomQuestion();
             storedQuestions[questionsAnswered] = q;
+            lblQuestionCount.Text = $"Soru: {(questionsAnswered + 1).ToString()}";
 
             lblQuestion.Text = q.Ask;
 
-            float fontSize = lblQuestion.Font.Size;
+            float fontSize = 20f;
             SizeF labelSize = new SizeF(lblQuestion.Width, lblQuestion.Height);
             while (fontSize > 1)
             {

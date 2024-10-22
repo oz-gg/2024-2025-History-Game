@@ -301,11 +301,8 @@
 			</question>
 			<question>
 				<ask>- Anadolu'da kurulan ilk Türk beyliklerindendir.
-
 					- Doğu ve Güneydoğu Anadolu Bölgesi'nde kurulmuştur.
-
 					- Beylik taş işçiliğinde gelişmiştir.
-
 					- Silvan'da Malabadi Köprüsü beyliğin önemli sanat eserleri arasındadır.
 
 					Yukarıda özellikleri verilen Anadolu Türk Beyliği aşağıdakilerden hangisidir?</ask>
@@ -428,7 +425,7 @@
 					<answer answerId="d">Germiyanoğulları</answer>
 					<answer answerId="e">Çaka Beyliği</answer>
 				</answers>
-				<correctAnswer></correctAnswer>
+				<correctAnswer>c</correctAnswer>
 			</question>
 			<question>
 				<ask>Aşağıdaki şehirlerden hangisi Türkiye Selçukluları tarafından fethedilmemiştir?</ask>
