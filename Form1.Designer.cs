@@ -658,10 +658,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 461);
             Controls.Add(pnlMainMenu);
+            Controls.Add(pnlPrepMenu);
             Controls.Add(pnlReviewQuestion);
             Controls.Add(pnlQuestion);
             Controls.Add(pnlEndScreen);
-            Controls.Add(pnlPrepMenu);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             KeyPreview = true;
             MaximizeBox = false;

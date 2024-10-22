@@ -16,7 +16,7 @@ namespace WinFormsApp1
         private List<string> correctAnswers = new List<string>();
         private Question[] storedQuestions;
 
-        const float DesiredQuestionsPerMinute = 10f;
+        const float DesiredQuestionsPerMinute = 4f;
 
         public MainMenu()
         {
@@ -248,6 +248,12 @@ namespace WinFormsApp1
             else if (rdbAnswerC.Checked && currentCorrectAnswer == "c") { correctQuestions.Add(questionsAnswered); }
             else if (rdbAnswerD.Checked && currentCorrectAnswer == "d") { correctQuestions.Add(questionsAnswered); }
             else if (rdbAnswerE.Checked && currentCorrectAnswer == "e") { correctQuestions.Add(questionsAnswered); }
+
+            rdbAnswerA.Checked = false;
+            rdbAnswerB.Checked = false;
+            rdbAnswerC.Checked = false;
+            rdbAnswerD.Checked = false;
+            rdbAnswerE.Checked = false;
 
             if (questionsAnswered == questionCount) { EndOfQuiz(); }
             else { DisplayNextQuestion(); }

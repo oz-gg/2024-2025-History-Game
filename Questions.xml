@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<unit unit="1">
+		<difficulty level="1">
+			<question>
+				<ask>6. yüzyıldan itibaren Anadolu'da asayişin bozulduğu, ekonomik faaliyetlerin aksadığı, güvenlik ve refah ortamının sağlanamadığı görülmektedir.
+
+					Bu durumun ortaya çıkmasında aşağıdakilerden hangisinin etkili olduğu söylenebilir?
+				</ask>
+				<answers>
+					<answer answerId="a">Selçuklular tarafından Anadolu Türk siyasi birliğinin kurulması</answer>
+					<answer answerId="b">Bizans İmparatorluğu'nun Helen kültürünü benimsemesi</answer>
+					<answer answerId="c">Bizans'ın Sasani ve İslam devletleri ile uzun süren mücadeleler içine girmesi</answer>
+					<answer answerId="d">Anadolu'nun önemli ticaret yolları üzerinde bulunması</answer>
+					<answer answerId="e">Anadolu'da feodal anlayışa dayalı bir toprak sisteminin kurulması</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>11. yüzyılın başlarında Bizans'ın merkezî otoritesinin zayıflamasına bağlı olarak Anadolu'da can ve mal güvenliğinin kalmaması aşağıdaki topluluklardan hangilerini olumsuz yönde etkilemiştir?</ask>
+				<answers>
+					<answer answerId="a">Yalnız Ermeni</answer>
+					<answer answerId="b">Yalnız Rum</answer>
+					<answer answerId="c">Ermeni ve Rum</answer>
+					<answer answerId="d">Ermeni ve Süryani</answer>
+					<answer answerId="e">Ermeni, Rum ve Süryani</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>"Orta Asya'da kurulan Büyük Hun Devleti'nden Türkiye Cumhiriyeti'ne Türk tarihi bir bütündür" düşüncesini;
+				1- Türkler aynı kökten gelen farklı siyasi yapılar oluşturmuşlardır.
+				2- Türklerin İslamiyet'i kabulü farklı etnik kimliklerin ortaya çıkmasına neden olmuştur.
+				3- Asya ve Anadolu Türkleri arasında güçlü bir etkileşim kurulamamıştır.
+				yargılarından hangilerinin desteklediği savunulabilir?</ask>
+				<answers>
+					<answer answerId="a">Yalnız 1</answer>
+					<answer answerId="b">Yalnız 2</answer>
+					<answer answerId="c">Yalnız 3</answer>
+					<answer answerId="d">1 ve 3</answer>
+					<answer answerId="e">2 ve 3</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>Türklerin Anadolu'yu yurt edinmeye başladığı dönemde aşağıdaki devletlerden hangisi ile daha çok mücadele ettiği söylenebilir?</ask>
+				<answers>
+					<answer answerId="a">Gazneli Devleti</answer>
+					<answer answerId="b">Abbasi Devleti</answer>
+					<answer answerId="c">Emevi Devleti</answer>
+					<answer answerId="d">Bizans İmparatorluğu</answer>
+					<answer answerId="e">Sasani Devleti</answer>
+				</answers>
+				<correctAnswer>d</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>"12. yüzyıldan itibaren Bizans ve Batı kaynakarında Anadolu için "Türkiye" ifadesinin kullanılması aşağıdakilerden hangisinin doğrudan bir sonucu değildir?</ask>
+				<answers>
+					<answer answerId="a">Türklerin, Balkan topraklarında önemli fetih hareketleri gerçekleştirmesi</answer>
+					<answer answerId="b">Anadolu'daki ticari faaliyetlerin İpek Yolu ile gerçekleştirilmesi</answer>
+					<answer answerId="c">Türklerin, İslam dünyasındaki saygınlıklarının artması</answer>
+					<answer answerId="d">Bizans imparatorunun Ortodoks mezhebine liderlik etmesi</answer>
+					<answer answerId="e">Anadolu'daki siyasi ve ekonomik egemenliğin Türklerin eline geçmesi</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>Malazgirt Meydan Muharebesi'ndnen sonra Sultan Alparslan komutanlarına ve beylerine hitaben fethedecekleri toprakları kendilerine vereceğini söylemiştir.
+				
+					Sultan Alparslan bu sözü ile aşağıdaklerden hangisimi amaçlamıştır?</ask>
+				<answers>
+					<answer answerId="a">Ticareti pekiştirmek</answer>
+					<answer answerId="b">Merkezî otoriteyi güçlendirmek</answer>
+					<answer answerId="c">Anadolu'nun fethini hızlandırmak</answer>
+					<answer answerId="d">Bizans'ı barışa zorlamak</answer>
+					<answer answerId="e">Haçlı seferlerini durdurmak</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>Aşağıdakilerden hangisi 1071'de kazanılan Malazgirt Meydan Muharebesi'nin sonuçlarından biri değildir?</ask>
+				<answers>
+					<answer answerId="a">Haçlı seferleri başlamıştır.</answer>
+					<answer answerId="b">Bizans'ın Anadolu'daki hâkimiyeti zayıflamıştır.</answer>
+					<answer answerId="c">İlk Türk beylikleri kurulmuştur</answer>
+					<answer answerId="d">Anadolu, Türklerin ikinci yurdu olmuştur</answer>
+					<answer answerId="e">İslam dünyasının liderliği Türklerin eline geçmiştir.</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			
+			<question>
+				<ask>Malazgirt Zaferi sonrasında Orta Asya'daki devlet anlayışını Anadolu'da devam ettirmeye çalışan Büyük Selçuklular, Anadolu'da ilk Türk beyliklerinin kurulmasını sağlamıştır. Bu dönemde Türkler boylar hâlinde ve konargöçer olarak yaşamlarını sürdürmeye devam etmişlerdir.
+				
+					Bu durumun aşağıdakilerden hangisini zorlaştırdığı savunulabilir?</ask>
+				<answers>
+					<answer answerId="a">Beyliklerin Türk-İslam kültürünü benimsemelerini</answer>
+					<answer answerId="b">Veraset sisteminin değişmesini</answer>
+					<answer answerId="c">Hayvancılır faaliyetlerinin yapılmasını</answer>
+					<answer answerId="d">Anadolu'da bağımsız siyasi güçlerin ortaya çıkmasını</answer>
+					<answer answerId="e">Merkezî otoritenin güçlü tutulmasını</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>Selçuklular, Horasan bölgesinin iki büyük siyasi gücü olan Karahanlılar ve Gazneliler arasında sıkışıp kalmışlardı. Bu durum karşısında, Tuğrul ve Çağrı Beyler, daha elverişli yerler bulabilmek için Anadolu'ya keşif seferleri düzenlemeye karar verdiler.
+				
+					Buna göre Selçukluların Anadolu'yu yurt edinmek istemesinin temel sebepleri ile ilgili aşarğıdakilerden hangisi söylenemez?</ask>
+				<answers>
+					<answer answerId="a">Anadolu'da iklim koşullarının uygun olması</answer>
+					<answer answerId="b">Bizans'ın Anadolu'dadki otoritesinin zayıf olması</answer>
+					<answer answerId="c">Anadolu beyliklerinin yayılmacı bir siyaset izlemesi</answer>
+					<answer answerId="d">Gaza ve cihat politikasını uygulama düşüncesi</answer>
+					<answer answerId="e">Anadolu'nun tarım ve hayvancılığa elverişli olması</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>Büyük Selçuklu Devleti'nin yıkılmasında aşağıdakilerden hangisinin etkisinden söz edilebilir?</ask>
+				<answers>
+					<answer answerId="a">Katvan Muharebesi</answer>
+					<answer answerId="b">Miryokefalon Muharebesi</answer>
+					<answer answerId="c">Yassıçimen Muharebesi</answer>
+					<answer answerId="d">Kösedağ Savaşı</answer>
+					<answer answerId="e">Ayn-ı Calut Muharebesi</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıda verilen hangi olay ile birlikte Anadolu'da  Türk denizciliği başlamıştır?</ask>
+				<answers>
+					<answer answerId="a">Çaka Bey'in İzmir'i alarak tersane kurması</answer>
+					<answer answerId="b">Selçukluların Alanya'yı ele geçirmeleri</answer>
+					<answer answerId="c">Selçukluların Samsun ve Antalya'yı ele geçirmeleri</answer>
+					<answer answerId="d">Selçukluların Suğdak Limanını almaları</answer>
+					<answer answerId="e">Karesioğullarının Gelibolu'da tershane kurmaları</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>Anadolu'da kurulan ilk Türk beyliklerindendir. Beylikler içerisinde en güçlü olanıdır. Sivas, Malatya ve Kayseri dolaylarında hüküm sürmüşlerdir. Türkiye Selçuklu Devleti ile birlikte Haçlılara karşı başarılı mücadeleler yapmışlardır. Anadolu'da önemli sanat eserleri meydana getirmişlerdir. Varlıklarına Türkiye Selçuklu hükümdarı II. Kılıç Arslan son vermiştir (1178).
+
+					Metninde bahsedilen beylik aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Danişmentliler</answer>
+					<answer answerId="b">Candaroğulları</answer>
+					<answer answerId="c">Mengücekliler</answer>
+					<answer answerId="d">Ramazanoğulları</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>Haçlı Seferleri, XI ve XIII. yüzyıllar arasında Hristiyanların kutsal saydıkları yerleri Müslümanların elinden geri almak amacıyla düzenlenmiştir. Haçlı Seferlerinin Avrupalılar tarafından yapılmasında dinî nedenler dışında siyasi, sosyal ve ekonomik nedenler de etkili olmuştur.
+
+					Buna göre, aşağıdakilerden hangisi Haçlı Seferlerinin sosyal nedenleri arasında gösterilebilir?</ask>
+				<answers>
+					<answer answerId="a">Haçlıların Doğu'nun zenginliklerine ulaşmak istemesi</answer>
+					<answer answerId="b">Bizans'ın Türklerin ilerleyişine karşılık Avrupa'dan yardım istemesi</answer>
+					<answer answerId="c">Derebeylerin bu seferlere katılarak güçlerini daha fazla artırmak istemesi</answer>
+					<answer answerId="d">Bazı kişilerin bu seferlere katılarak dük, kont gibi ünvanlar kazanmak istemesi</answer>
+					<answer answerId="e">Katolik Kilisesinin Ortodoks kilisesini egemenlik altına almak istemesi</answer>
+				</answers>
+				<correctAnswer>d</correctAnswer>
+			</question>
+			<question>
+				<ask>--Trabzon Rum İmparatorluğu üzerine sefer yapıldı,
+				- Kapalı olan Karadeniz ticaret yolu yeniden açıldı,
+				- Güneyde Antalya şehri alınarak Türkiye Selçuklularının Akdeniz ile bağlantısı kuruldu,
+				- Venediklilerle ticari antlaşma imzalandı,
+				- 1211 yılında Alaşehir'de Bizanslılar ağır bir yenilgiye uğratıldı.
+
+				Yukarıdaki siyasi olayların meydana geldiği dönemde Türkiye Selçuklu hükümdarı aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Kutalmışoğlu Süleyman Şah</answer>
+					<answer answerId="b">I. Kılıçarslan</answer>
+					<answer answerId="c">II. Kılıçarslan</answer>
+					<answer answerId="d">II. Rüknettin Süleyman Şah</answer>
+					<answer answerId="e">I. Gıyaseddin Keyhüsrev</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>- Erzincan ve Sivas-Divriği dolaylarında kurulmuştur.
+					- Gürcü ve Rumlarla mücadele etmiştir.
+					- Divriği Ulu Camii ve Darüşşifası, önemli mimari eserlerindendir.
+
+					Yukarıda özellikleri verilen Anadolu Türk beyliği aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Danişmentliler</answer>
+					<answer answerId="b">Saltuklular</answer>
+					<answer answerId="c">Mengücekliler</answer>
+					<answer answerId="d">Artuklular</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			<question>
+				<ask>Anadolu'nun Türkler tarafından fethedilmesinde aşağıdaki faktörlerden hangisi etkili olmamıştır?</ask>
+				<answers>
+					<answer answerId="a">Bizans İmparatorluğu'nun Ortodoks mezhebinden olmayanlara baskı yapması</answer>
+					<answer answerId="b">Bizans İmparatorluğu'nun halktan ağır vergiler alması</answer>
+					<answer answerId="c">Anadolu topraklarının Avrupa devletlerinin işgali altında olması</answer>
+					<answer answerId="d">Anadolu topraklarının tarım ve hayvancılığa uygun olması</answer>
+					<answer answerId="e">Anadolu halkının adil bir yönetim özlemi içinde olması</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			<question>
+				<ask>Anadolu'ya yapılan akınlar sonucunda ele geçirilen bölgeler Türk devlet geleneğine uyularak komutanlar arasında paylaştırılıyordu. Önceleri Büyük Selçuklu Devleti'ne bağlı olarak kendi bölgelerini yöneten bu komutanlar daha sonra bağımsızlıklarını ilan ediyorlardı. Böylece Anadolu'da ilk Türk devletleri ve beylikleri kurulmaya başlamıştı.
+
+					Bu bilgilere dayanarak aşağıdaki ifadelerden hangisi söylenemez?</ask>
+				<answers>
+					<answer answerId="a">Anadolu'nun Türkleşip - İslamlaşması uzun zaman almıştır.</answer>
+					<answer answerId="b">Fethedilen topraklar Selçuklu komutanları arasında paylaşılmıştır.</answer>
+					<answer answerId="c">Türk yönetim anlayışında devlet geleneği önemlidir.</answer>
+					<answer answerId="d">Anadolu'nun fethinde Türk komutanlarının önemli bir rolü vardır.</answer>
+					<answer answerId="e">Anadolu'daki İlk Türk devletleri ve beylikleri Selçuklu komutanları tarafından kurulmuştur.</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıdakilerden hangisi Haçlı Seferleri'nin siyasi sonuçlarındandır?</ask>
+				<answers>
+					<answer answerId="a">Müslümanların şehirleri yağmalanması</answer>
+					<answer answerId="b">Papa ve kiliseye olan güven sarsılması</answer>
+					<answer answerId="c">Türklerin İslam dünyasındaki itibarının artması</answer>
+					<answer answerId="d">Katolik ve Ortodoks kiliseleri arasındaki ayrılıkların daha da artması</answer>
+					<answer answerId="e">Avrupa'da ticaretle uğraşan burjuva sınıfının ortaya çıkması</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			<question>
+				<ask>Selçuklular; Anadolu'da Rumların, Ermenilerin ve Süryanilerin dinsel inanç ve yaşam tarzlarına karışmamışlardır. Ermeniler ve Süryaniler, inanç ve ibadetlerini serbestçe sürdürmüşlerdir. Yahudiler de ibadet yerleri olan havralarda dinî inançlarının gereğini hiçbir baskı altında kalmadan yerine getirmişlerdir.
+
+					Buna göre, Selçuklu Devleti ile ilgili aşağıdaki yargılardan hangisine ulaşılabilir?</ask>
+				<answers>
+					<answer answerId="a">Vergi gelirlerinin arttığına</answer>
+					<answer answerId="b">İslamiyetin  yayıldığına</answer>
+					<answer answerId="c">Gayrımüslimlerin yönetimde  yer aldığına</answer>
+					<answer answerId="d">Dinî inançlara karşı saygılı olunduğuna</answer>
+					<answer answerId="e">Yahudiler'in  ibadetlerini yapamadığına</answer>
+				</answers>
+				<correctAnswer>d</correctAnswer>
+			</question>
+			<question>
+				<ask>Orta Çağ'ın en büyük olaylarından biri kabul edilen Haçlı Seferlerinin askerî, siyasal, dinî ve ekonomik nedenleri vardır.
+ 
+					Aşağıdakilerden hangisi bu nedenlerden biridir?</ask>
+				<answers>
+					<answer answerId="a">Anadolu'yu yurt tutan Türkleri Anadolu'dan atmak</answer>
+					<answer answerId="b">Bizans'ın zayıflığından faydalanarak Bizans'ı ortadan kaldırmak</answer>
+					<answer answerId="c">Skolastik anlayışı yıkmak</answer>
+					<answer answerId="d">Türklerin Karadeniz'in kuzeyine ilerlemesini engellemek</answer>
+					<answer answerId="e">İslam dünyasının  bilim anlayışını geliştirmek</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>Malazgirt Savaşı'ndan sonra Anadolu'da başlayan Türk ilerleyişini durdurmak isteyen Bizans'a karşı kazanılan bu zafer, Anadolu'nun bir Türk yurdu olduğunu ve Türklerin Anadolu'dan atılamayacağını ispatladı. Bizans bu savaşla savunmaya geçti ve bir daha saldırı gücünü kendinde bulamadı.
+
+					Yukarıda bahsedilen savaş aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Pasinler</answer>
+					<answer answerId="b">Yassıçemen</answer>
+					<answer answerId="c">Dandanakan</answer>
+					<answer answerId="d">Koyunhisar</answer>
+					<answer answerId="e">Miryokefalon</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>Mama Hatun döneminde Erzincan'ın Tercan ilçesinde yapılan Külliye, Emir Saltuk Kümbeti, Kale Cami, Tepsi Minare,  önemli sanat eserleri arasında yer alır.
+
+					Yukarıda verilen sanat eserlerini Anadolu'ya miras bırakan Türk Beyliği aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Osmanoğulları</answer>
+					<answer answerId="b">Saltuklular</answer>
+					<answer answerId="c">Candaroğulları</answer>
+					<answer answerId="d">Artuklular</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer>b</correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıdakilerden hangisi I. Alaaddin Keykubat Dönemi'ne ait bir gelişme değildir?</ask>
+				<answers>
+					<answer answerId="a">Haçlılar ile mücadele edildi</answer>
+					<answer answerId="b">Türkiye Selçukluları en geniş sınırlarına ulaştı</answer>
+					<answer answerId="c">Anadolu Türk birliği büyük ölçüde sağlandı</answer>
+					<answer answerId="d">Alaiye (Alanya) Kalesi ele geçirildi</answer>
+					<answer answerId="e">Suğdak ele geçirildi</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>- Anadolu'da kurulan ilk Türk beyliklerindendir.
+
+					- Doğu ve Güneydoğu Anadolu Bölgesi'nde kurulmuştur.
+
+					- Beylik taş işçiliğinde gelişmiştir.
+
+					- Silvan'da Malabadi Köprüsü beyliğin önemli sanat eserleri arasındadır.
+
+					Yukarıda özellikleri verilen Anadolu Türk Beyliği aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Danişmentliler</answer>
+					<answer answerId="b">Karesioğulları</answer>
+					<answer answerId="c">Aydınoğulları</answer>
+					<answer answerId="d">Artuklular</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer>d</correctAnswer>
+			</question>
+			<question>
+				<ask>12. yüzyılda Haçlılar ile yaptığı mücadeleler sonucunda İslam dünyasında saygınlığı artan ve İslam dünyasının koruyucusu haline gelen Türk devleti aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Harzemşahlar</answer>
+					<answer answerId="b">Karamanoğulları</answer>
+					<answer answerId="c">Türkiye Selçukluları</answer>
+					<answer answerId="d">Karahanlılar </answer>
+					<answer answerId="e">Osmanlılar</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			<question>
+				<ask>1071 Malazgirt Savaşı’ndan sonra Anadolu coğrafyası ve çevresinde önemli siyasi gelişmeler yaşandı.
+
+					Aşağıdakilerden hangisi Malazgirt Savaşı sonrasında yaşanan gelişmeler arasında gösterilemez?</ask>
+				<answers>
+					<answer answerId="a">Selçukluların Bizans karşısındaki üstünlüğünü sürdürmesi</answer>
+					<answer answerId="b">Türk boylarının Orta Asya’dan Anadolu’ya yoğun bir şekilde göç etmesi</answer>
+					<answer answerId="c">Anadolu’da Hristiyan kültürünün tamamen ortadan kaldırılması için mücadele edilmesi</answer>
+					<answer answerId="d">Türkiye Selçuklu Devleti’yle beraber Anadolu’da Türk hâkimiyetinin sağlanması</answer>
+					<answer answerId="e">Türk ilerleyişine karşı Avrupa’da haçlı birliklerinin kurulması</answer>
+				</answers>
+				<correctAnswer>c</correctAnswer>
+			</question>
+			<question>
+				<ask>Anadolu'nun ilk medresesi sayılan ve tıp eğitimi verilen Yağıbasan Medresesi ile Kayseri Ulu Cami, Melik Gazi Kümbeti gibi Anadolu'ya önemli sanat eserleri bırakan Anadolu beyliği aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Çaka Beyliği</answer>
+					<answer answerId="b">Hamitoğulları</answer>
+					<answer answerId="c">Germiyanoğulları</answer>
+					<answer answerId="d">Menteşeoğulları</answer>
+					<answer answerId="e">Danişmentliler</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıdakilerden hangisi Malazgirt Savaşı'ndan sonra Anadolu'da kurulan ilk dönem beylikler arasında yer almaz?</ask>
+				<answers>
+					<answer answerId="a">Karamanoğulları</answer>
+					<answer answerId="b">Saltuklular</answer>
+					<answer answerId="c">Mengücekliler</answer>
+					<answer answerId="d">Artuklular</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+			<question>
+				<ask>I. Kılıçarslan ile Çaka Bey'in arasını açmak,
+					II. Türklere karşı Papa'dan yardım istemek,
+					III. Türk beyliklerinin arasını açmak,
+					IV. Selçuklu şehzadelerini taht mücadelesine kışkırtmak
+
+					Yukarıdakilerden hangileri Bizans'ın Türklerin ilerlemesini engellemek için uyguladığı taktiklerden biridir?</ask>
+				<answers>
+					<answer answerId="a">I ve II</answer>
+					<answer answerId="b">I ve III</answer>
+					<answer answerId="c">I, II ve III</answer>
+					<answer answerId="d">I, II ve IV</answer>
+					<answer answerId="e">I, II, III ve IV</answer>
+				</answers>
+				<correctAnswer>e</correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıdakilerden hangisi Haçlı Seferlerinin nedenlerinden biri değildir?</ask>
+				<answers>
+					<answer answerId="a">Avrupa'nın büyük bir kısmının açlık ve yoksulluk içinde olması</answer>
+					<answer answerId="b">Coğrafi Keşiflerin başlaması</answer>
+					<answer answerId="c">Hristiyanların başta Kudüs olmak üzere kutsal yerleri Müslümanlardan almak istemesi</answer>
+					<answer answerId="d">Şövalyelerin macera arzusu</answer>
+					<answer answerId="e">Derebeylerin bu seferlere katılarak ekonomik güçlerini artırmak istemesi</answer>
+				</answers>
+				<correctAnswer>b</correctAnswer>
+			</question>
+			<question>
+				<ask>Süleyman Şah,  Antakya ele geçirdikten sonra, gayrimüslim halka hiç dokunmayarak esir alınan Ermenileri de serbest bıraktı. Askerlerine halka iyi davranılmasını, halktan zorla hiçbir şey alınmamasını ve evlerine girilmemesini emretti.
+
+					Buna göre, Süleyman Şah'ın kişiliği ile ilgili olarak aşağıdaki yargılardan hangisine ulaşılabilir?</ask>
+				<answers>
+					<answer answerId="a">Bütün yetkiyi kendisinde toplamıştır</answer>
+					<answer answerId="b">Halkı tarafından sevilmektedir</answer>
+					<answer answerId="c">Askerleri tarafından sevilmektedir</answer>
+					<answer answerId="d">Hoşgörülü ve adaletlidir</answer>
+					<answer answerId="e">Gayrimüslimlere ayrıcalık tanımıştır</answer>
+				</answers>
+				<correctAnswer>d</correctAnswer>
+			</question>
+			<question>
+				<ask>Kadir, yaşadığı şehirde Alaaddin Keykubat Sarayı ve Camii, Karatay Medresesi, Sırçalı Medrese, İnce Minareli Medrese gibi Anadolu Selçuklu Devletine ait eserlerin olduğunu öğrenmiştir.
+
+					Kadir'in yaşadığı şehir aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Trabzon</answer>
+					<answer answerId="b">Konya</answer>
+					<answer answerId="c">İznik</answer>
+					<answer answerId="d">Antalya</answer>
+					<answer answerId="e">İstanbul</answer>
+				</answers>
+				<correctAnswer>b</correctAnswer>
+			</question>
+			<question>
+				<ask>Erzurum ve çevresinde Ebulkasım Saltuk Bey tarafından kurulmuştur. Anadolu'da kurulan ilk Türk beyliklerindendir. Gürcülerle savaşmış ve Danişmentlilerle birleşerek Haçlı saldırılarıyla mücadele etmişlerdir. Türkiye Selçuklu hükümdarı Rükneddin Süleyman Şah 1202 yılında bu beyliğin varlığına son vermiştir.
+
+					Yukarıda özellikleri verilen Anadolu Türk Beyliği aşağıdakilerden hangisidir?</ask>
+				<answers>
+					<answer answerId="a">Hamitoğulları</answer>
+					<answer answerId="b">Mengücekliler</answer>
+					<answer answerId="c">Saltuklular</answer>
+					<answer answerId="d">Germiyanoğulları</answer>
+					<answer answerId="e">Çaka Beyliği</answer>
+				</answers>
+				<correctAnswer></correctAnswer>
+			</question>
+			<question>
+				<ask>Aşağıdaki şehirlerden hangisi Türkiye Selçukluları tarafından fethedilmemiştir?</ask>
+				<answers>
+					<answer answerId="a">Edirne</answer>
+					<answer answerId="b">İznik</answer>
+					<answer answerId="c">Kayseri</answer>
+					<answer answerId="d">Konya</answer>
+					<answer answerId="e">Sivas</answer>
+				</answers>
+				<correctAnswer>a</correctAnswer>
+			</question>
+		</difficulty>
+	</unit>
+</questions>
