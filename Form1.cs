@@ -16,7 +16,7 @@ namespace WinFormsApp1
         private List<string> correctAnswers = new List<string>();
         private Question[] storedQuestions;
 
-        const float DesiredQuestionsPerMinute = 4f;
+        const float DesiredQuestionsPerMinute = 3f;
 
         public MainMenu()
         {
@@ -75,20 +75,25 @@ namespace WinFormsApp1
 
             lblQuestion.Text = q.Ask;
 
-            float fontSize = 20f;
-            SizeF labelSize = new SizeF(lblQuestion.Width, lblQuestion.Height);
-            while (fontSize > 1)
+            List<Control> items = new List<Control> { lblQuestion, rdbAnswerA, rdbAnswerB, rdbAnswerC, rdbAnswerD, rdbAnswerE };
+
+            for (int i = 0; i < 6; i++)
             {
-                Font testFont = new Font(lblQuestion.Font.FontFamily, fontSize);
-                Size textSize = TextRenderer.MeasureText(lblQuestion.Text, testFont, lblQuestion.Size, TextFormatFlags.WordBreak);
-
-                if (textSize.Width <= labelSize.Width && textSize.Height <= labelSize.Height)
+                float fontSize = i == 0 ? 20f : 13f;
+                SizeF labelSize = new SizeF(items[i].Width, items[i].Height);
+                while (fontSize > 1)
                 {
-                    lblQuestion.Font = testFont;
-                    break;
-                }
+                    Font testFont = new Font(items[i].Font.FontFamily, fontSize);
+                    Size textSize = TextRenderer.MeasureText(items[i].Text, testFont, items[i].Size, TextFormatFlags.WordBreak);
 
-                fontSize -= 0.5f;
+                    if (textSize.Width <= labelSize.Width && textSize.Height <= labelSize.Height)
+                    {
+                        items[i].Font = testFont;
+                        break;
+                    }
+
+                    fontSize -= 0.5f;
+                }
             }
 
             rdbAnswerA.Text = q.Answers[0].Text;
@@ -109,6 +114,27 @@ namespace WinFormsApp1
             lblReviewAnswerC.Text = q.Answers[2].Text;
             lblReviewAnswerD.Text = q.Answers[3].Text;
             lblReviewAnswerE.Text = q.Answers[4].Text;
+
+            List<Label> labels = new List<Label> { lblQuestionReview, lblReviewAnswerA, lblReviewAnswerB, lblReviewAnswerC, lblReviewAnswerD, lblReviewAnswerE };
+
+            for (int i = 0; i < 6; i++)
+            {
+                float fontSize = i == 0 ? 20f : 13f;
+                SizeF labelSize = new SizeF(labels[i].Width, labels[i].Height);
+                while (fontSize > 1)
+                {
+                    Font testFont = new Font(labels[i].Font.FontFamily, fontSize);
+                    Size textSize = TextRenderer.MeasureText(labels[i].Text, testFont, labels[i].Size, TextFormatFlags.WordBreak);
+
+                    if (textSize.Width <= labelSize.Width && textSize.Height <= labelSize.Height)
+                    {
+                        labels[i].Font = testFont;
+                        break;
+                    }
+
+                    fontSize -= 0.5f;
+                }
+            }
 
             int questionIndex = Array.IndexOf(storedQuestions, q);
 
@@ -212,7 +238,7 @@ namespace WinFormsApp1
         private void timer1_Tick(object sender, EventArgs e)
         {
             time--;
-            lblTimeRemaining.Text = $"Süre: {(time - time % 60) / 60}:{((time < 10) ? '0' : "")}{time - ((time - time % 60) / 60) * 60}";
+            lblTimeRemaining.Text = $"Süre: {(time - time % 60) / 60}:{((time % 60 < 10) ? '0' : "")}{time - ((time - time % 60) / 60) * 60}";
             if (time == 0)
             {
                 EndOfQuiz();
